@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/ysgc.json"
+      "ext": "https://link000-1.github.io/XBiubiu/ysgc.json"
     },
     {
       "key": "csp_biubiu_555",
@@ -18,7 +18,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/555.json"
+      "ext": "https://link000-1.github.io/XBiubiu/555.json"
     },
     {
       "key": "csp_biubiu_lezhu",
@@ -28,7 +28,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://tangsan99999.github.io/XBiubiu/lezhutv.json"
+      "ext": "https://link000-1.github.io/XBiubiu/lezhutv.json"
     },
     { //列子，自己找Api
       "key": "300看世界",
@@ -38,7 +38,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/appys/300sj.json"
+      "ext": "https://link000-1.github.io/sub/appys/300sj.json"
     },
     { //列子，自己找Api
       "key": "钟特影视",
@@ -77,7 +77,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Xiaoh.json"
+      "ext": "link000-1.github.io/sub/setup/Xiaoh.json"
     },
     {
       "key": "Auete",
@@ -87,7 +87,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Auete.json"
+      "ext": "https://link000-1.github.io/sub/setup/Auete.json"
     },
     {
       "key": "Cokemv",
@@ -97,7 +97,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/setup/Cokemv.json"
+      "ext": "https://link000-1.github.io/sub/setup/Cokemv.json"
     },
     {
       "key": "在线之家",
@@ -107,7 +107,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/xpath/zxzj.json"
+      "ext": "https://link000-1.github.io/sub/xpath/zxzj.json"
     },
     {
       "key": "789看片",
@@ -117,7 +117,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/xpath/789ba.json"
+      "ext": "https://link000-1.github.io/sub/xpath/789ba.json"
     },
     {
       "key": "Gimy",
@@ -127,7 +127,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/xpath/Gimy.json"
+      "ext": "https://link000-1.github.io/sub/xpath/Gimy.json"
     },
     {
       "key": "乐猪TV",
@@ -137,7 +137,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://tangsan99999.github.io/sub/xpath/lezhutv.json"
+      "ext": "https://link000-1.github.io/sub/xpath/lezhutv.json"
     },
     {
       "key": "Age动漫",
@@ -147,7 +147,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://tangsan99999.github.io/sub/xpath/agefans.json"
+      "ext": "https://link000-1.github.io/sub/xpath/agefans.json"
     },
     {
       "key": "push_agent",
@@ -444,5 +444,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://tangsan99999.github.io/custom_spider.jar"
+  "spider": "https://link000-1.github.io/custom_spider.jar"
 }
